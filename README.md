@@ -9,7 +9,9 @@ Simple scenario login scenario, creating new account and fetching all the accoun
 Tools and Libraries
 
 Language: Java 8
+
 Testing framework: Junit
+
 BDD framework: Cucumber jvm
 Automation tool: Selenium webdriver
 Build tool: maven
