@@ -6,9 +6,9 @@ import io.cucumber.junit.CucumberOptions;
 import io.cucumber.junit.Cucumber; 
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = {"C:/Users/hp/eclipse-workspace/paraBankProject/src/test/resources/Features/ParaBank-Login.feature",
-		"C:/Users/hp/eclipse-workspace/paraBankProject/src/test/resources/Features/openNewAccount.feature",
-		"C:/Users/hp/eclipse-workspace/paraBankProject/src/test/resources/Features/accountOverview.feature"},
+@CucumberOptions(features = {"C:/Users/hp/git/repository/paraBankProject/src/test/resources/Features/ParaBank-Login.feature",
+		"C:/Users/hp/git/repository/paraBankProject/src/test/resources/Features/openNewAccount.feature",
+		"C:/Users/hp/git/repository/paraBankProject/src/test/resources/Features/accountOverview.feature"},
 glue= {"stepDefinations"},
 dryRun=false,
 monochrome = true,
